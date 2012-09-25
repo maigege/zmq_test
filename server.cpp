@@ -1,8 +1,8 @@
 #include <string>
 #include <iostream>
-#include <cstdio.h>
-#include <cstdlib.h>
-#include <cstring.h>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
 #include "zmq.hpp"
 
 using namespace std;
